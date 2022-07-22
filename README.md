@@ -1,6 +1,6 @@
 # CSS Snippet Cheat Sheet
 
-[CSS Snippet Cheat Sheet] (https://aszpan.github.io/CSS-Snippet-Cheat-Sheet/)
+![CSS Snippet Cheat Sheet] (https://aszpan.github.io/CSS-Snippet-Cheat-Sheet/)
 
 ## User Story
 
